@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-google-iot-core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "MQTT Node with persistent message storage for Google IoT core",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
